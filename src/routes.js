@@ -35,5 +35,3 @@ const routes = [
 ];
 
 module.exports = routes;
-
-// Hello
